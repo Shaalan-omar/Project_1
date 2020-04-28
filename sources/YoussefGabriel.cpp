@@ -3,6 +3,8 @@
 #include <string>
 using namespace std;
 
-int main(){
-	cout<< YoussefGabriel <<endl;
+void YoussefGabriel()
+{
+	cout<< "My name: YoussefGabriel" <<endl;
+	cout<< "My email: youssefgabriel@aucegypt.edu"<<endl;
 }
