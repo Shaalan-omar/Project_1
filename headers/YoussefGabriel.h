@@ -3,4 +3,7 @@
 #include <string>
 using namespace std;
 
-void YoussefGabriel();
+void YoussefGabriel(){
+	cout<< "My name: YoussefGabriel" <<endl;
+	cout<< "My email: youssefgabriel@aucegypt.edu"<<endl;
+}
